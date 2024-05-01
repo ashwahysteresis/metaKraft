@@ -1,0 +1,42 @@
+
+#mask-img{
+    width: 226px;
+    height: 231px;
+    top: 83px;
+    left: 94px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+#icon-imag{
+    width: 555px;
+height: 106px;
+left: -71px;
+gap: 0px;
+opacity: 0px;
+
+}
+#earncoin{
+    display: flex;
+    height: 50px;
+    width: 80%;
+    background-color: #9898D4;
+    justify-content: center;
+    text-align: center;
+    margin-left: -12%;
+    font-size: 27px;
+    border-radius: 25px;
+}
+#dailytweet{
+    width: 120px;
+height: 100px;
+top: 434px;
+left: 15px;
+gap: 0px;
+background-color: #5E5E5E;
+border-radius: 20px;
+opacity: 0px;
+font-size: 10px;
+text-align: center;
+
+}

@@ -1,0 +1,71 @@
+@media  
+screen and (min-device-width: 831px) and (max-device-width: 1208px) {
+
+#image{
+    margin-top: -100px;
+    position: relative;
+    /* width: 80%;   */
+    /* height: 400px; */
+    background-size: cover;
+    /* background-image: url(../images/metakraftx.jpg); */
+    /* background-color: red; */
+    z-index: 2;
+    width: 378px;
+height: 400px;
+left: 18px;
+gap: 0px;
+opacity: 0px;
+
+}
+}
+
+
+.input-container {
+    position: relative;
+    margin-top: -50px;
+  }
+  #leaderboard{
+    height: 25px;
+    margin: 25px 0px 0px 120px;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    
+  }
+  #playbutton{
+    margin-top: 70px;
+    height:50px;
+    background-color: whitesmoke;
+    color: black;
+    align-content: center;
+    width: 180px;
+    margin-left: 75px;
+border-radius: 30px;
+  }
+  
+  .icon {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 50%;
+    left: 10px; /* Adjust the left position of the icon */
+    background-size: contain;
+    background-image: url(../icons/money-icon.jpg);
+    margin-left: 180px;
+    margin-top: -13px;
+  }
+ 
+  /* @media (max-width:570px){
+    #image{
+        width: 100%; /* Adjust the width of the container  
+       height: 300px;
+      }
+      #balance{
+        margin-top: -200px;
+      }
+      #playbutton{
+        margin-top: 60px;
+      }
+  } */
+  
+  
